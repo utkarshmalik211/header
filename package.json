@@ -1,0 +1,11 @@
+{
+  "name": "header",
+  "version": "1.0.0",
+  "description": "return http header information",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
